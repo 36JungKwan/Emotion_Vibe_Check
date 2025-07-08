@@ -67,11 +67,7 @@ File results.csv lưu thông tin:
 ## 💚 Tính năng nổi bật
 ✅ Nhận diện nhiều khuôn mặt cùng lúc
 
-✅ Hiệu ứng bóng đổ, màu sắc giao diện hài hòa
-
 ✅ Hiển thị ảnh khuôn mặt + gợi ý thử thách tương tác
-
-✅ Chơi vui – học AI – tạo kỷ niệm đáng nhớ
 
 ## 📸 Gợi ý dùng
 Làm trò chơi nhóm trong lớp học, workshop, câu lạc bộ
