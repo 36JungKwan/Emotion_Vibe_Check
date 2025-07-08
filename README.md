@@ -80,6 +80,6 @@ Triển lãm công nghệ AI tại các sự kiện trường học
 
 Làm minigame trên sân khấu với camera
 
-## Ghi chú
+## ✨ Ghi chú
 - Thay đổi các path (đường dẫn) nếu cần
 - Lần đầu chạy app sẽ khá tốn thời gian vì các thư viện sẽ tự động tải model (DeepFace) về nếu chưa có
