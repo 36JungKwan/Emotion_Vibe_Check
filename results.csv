@@ -1,0 +1,5 @@
+Timestamp,Dominant Emotion,All Emotions,Suggestion,Image Path
+20250607_164251,sad,"angry:1.0%, disgust:0.0%, fear:6.0%, happy:0.0%, sad:89.5%, surprise:0.0%, neutral:3.5%","M?t tay che m?t, m?t bu?n.",snapshots/face_20250607_164251.jpg
+20250607_164257,sad,"angry:4.9%, disgust:0.0%, fear:5.1%, happy:0.0%, sad:82.8%, surprise:0.0%, neutral:7.2%","Tay ch?ng má, nh?n xa xãm, m?t bu?n.",snapshots/face_20250607_164257.jpg
+20250609_150303,sad,"angry:11.4%, disgust:0.0%, fear:16.2%, happy:0.0%, sad:67.3%, surprise:0.0%, neutral:5.1%","Hai tay ôm ð?u, m?t r?u r?.",snapshots/face_20250609_150303.jpg
+20250609_150439,neutral,"angry:14.5%, disgust:0.0%, fear:2.1%, happy:0.0%, sad:5.4%, surprise:0.6%, neutral:77.3%","M?t tay ch?ng c?m, m?t nh?n nghiêng.",snapshots/face_20250609_150439.jpg
